@@ -1,4 +1,4 @@
-# daily_update.p
+# daily_update.py
 import random
 
 print("Daily GitHub activity - Day 22")
